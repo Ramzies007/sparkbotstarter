@@ -1,5 +1,5 @@
 {
-  "webhookUrl": "http://PUTWEBADDRESSHERE",
-  "token": "__PUT_BOT_API_KEY_HERE",
-  "port": 1337
+  "webhookUrl": "http://69dd5aa0.ngrok.io",
+  "token": "YTljMTY2NjYtZDE4OC00YTZiLThmZDctNDM5YzA5MmQyYmQzNTlhNzI0ZmYtNWE5",
+  "port": 7001
 }
